@@ -1,0 +1,20 @@
+.nav{
+    ul{
+        background-color: aqua;
+        color: black;
+        list-style: none;
+        display: flex;
+        padding: 10px;
+        gap: 20px;
+        border-radius: 10px;
+
+    }
+
+    li{
+        display: block;
+        background-color: white;
+        border-radius: 5px;
+        padding: 5px;
+        
+    }
+}
